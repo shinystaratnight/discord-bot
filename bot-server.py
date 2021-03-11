@@ -1,5 +1,3 @@
-# pip -r install requirements.txt 실행
-
 import asyncio
 import discord
 from discord.ext import commands
